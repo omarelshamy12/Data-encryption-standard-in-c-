@@ -1,0 +1,3 @@
+C:/Users/omar naser/CLionProjects/des/cmake-build-debug/CMakeFiles/des.dir
+C:/Users/omar naser/CLionProjects/des/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/omar naser/CLionProjects/des/cmake-build-debug/CMakeFiles/rebuild_cache.dir
